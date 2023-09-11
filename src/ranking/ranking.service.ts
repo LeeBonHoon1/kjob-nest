@@ -1,5 +1,5 @@
 import { Injectable, NotFoundException } from "@nestjs/common";
-import { Ranking } from "./entities/ranking.entity";
+import { Ranking } from "../../entities/ranking.entity";
 
 @Injectable()
 export class RankingService {
