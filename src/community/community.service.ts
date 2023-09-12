@@ -1,5 +1,5 @@
 import { Injectable, NotFoundException } from "@nestjs/common";
-import { Community } from "entities/community.entity";
+import { Community } from "src/entities/community.entity";
 
 @Injectable()
 export class CommunityService {
