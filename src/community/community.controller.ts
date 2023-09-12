@@ -1,4 +1,4 @@
-import { Community } from "entities/community.entity";
+import { Community } from "src/entities/community.entity";
 import { CommunityService } from "./community.service";
 import { Body, Controller, Get, Param, Post } from "@nestjs/common";
 

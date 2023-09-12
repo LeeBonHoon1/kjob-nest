@@ -1,4 +1,4 @@
-import { Ranking } from "../../entities/ranking.entity";
+import { Ranking } from "src/entities/ranking.entity";
 import { RankingService } from "./ranking.service";
 import {
   Body,
